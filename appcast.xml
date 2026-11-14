@@ -3,6 +3,14 @@
   <channel>
     <title>TermRoad</title>
     <item>
+      <title>Version 1.1.1</title>
+      <pubDate>Sat, 14 Nov 2026 15:15:44 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/TermRoad/releases/releases/download/v1.1.1/TermRoad-1.1.1.zip" length="13018316" type="application/octet-stream" sparkle:edSignature="VPh/SpxDF3iRflsE9tCUUXOX/mce5iIIyp7QhIJxEs5ucwQXFLncVmhgu76YfodpU7VzfahdZKkY46eqW2/aAA==" />
+    </item>
+    <item>
       <title>Version 1.1</title>
       <pubDate>Sat, 14 Nov 2026 11:31:41 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
