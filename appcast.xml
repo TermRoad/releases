@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>TermRoad</title>
+    <item>
+      <title>Version 1.0</title>
+      <pubDate>Sat, 14 Nov 2026 02:02:47 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/TermRoad/releases/releases/download/v1.0/TermRoad-1.0.zip" length="12872051" type="application/octet-stream" sparkle:edSignature="RtI+nnpHgKFA4GCaYxjPRk6Z2EGUTqfo8jpYsxnaC07/GHo+pEMkkRjWuOUncz2a9SEvkymrNASs/iPEpGvJAA==" />
+    </item>
+  </channel>
+</rss>
